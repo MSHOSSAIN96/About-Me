@@ -14,7 +14,6 @@
 🌱 I’m currently learning advanced techniques in physical design and exploring emerging technologies in the semiconductor field.
 💞️ I’m looking to collaborate on open-source EDA projects, physical design optimization challenges, and knowledge sharing with fellow engineers.
 📫 How to reach me:
-  - 🌐 [Your Personal Website/Portfolio]
   - 📧 [mhossain@stud.hs-bremen.de]
   - LinkedIn: [https://www.linkedin.com/in/md-shazzad-hossain-2b3381179/]
   - Twitter: [https://twitter.com/MdShazz21758936]
